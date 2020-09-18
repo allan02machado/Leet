@@ -1,0 +1,13 @@
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.exe
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.deps.json
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.runtimeconfig.json
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.runtimeconfig.dev.json
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.dll
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\bin\Debug\netcoreapp3.1\Leet.pdb
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.csprojAssemblyReference.cache
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.AssemblyInfo.cs
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.dll
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.pdb
+C:\Users\allan\Documents\ETEC\PC\DevCs\Leet\obj\Debug\netcoreapp3.1\Leet.genruntimeconfig.cache
